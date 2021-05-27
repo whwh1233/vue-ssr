@@ -1,4 +1,4 @@
-# vue-hackernews-2.0
+# vue-ssr
 
 HackerNews clone built with Vue 2.0 + vue-router + vuex, with server-side rendering.
 
@@ -52,7 +52,7 @@ It is therefore not recommended to use this app as a reference for Vue SSR perfo
 
 **Requires Node.js 7+**
 
-``` bash
+```bash
 # install dependencies
 npm install # or yarn
 
